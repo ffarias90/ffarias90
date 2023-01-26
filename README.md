@@ -1,22 +1,17 @@
-### Hi there 👋
+### Hi/Hola 👋
+
+```js
+const Felipe = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Javascript],
+  tools: [Vue],
+}
+```
 
 <!--
 **ffarias90/ffarias90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-```js
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+
 
 
 Here are some ideas to get you started:
